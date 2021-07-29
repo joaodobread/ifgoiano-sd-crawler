@@ -1,0 +1,2 @@
+a única coisa que precisa ficar para pegar os links é a tag com MAIN_TEXT_ID
+o restante da classe UtilsPageMetadata é para remover
